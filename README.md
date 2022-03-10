@@ -1,5 +1,5 @@
 # Omnifactory1.2.2汉化包
-Chinese transalation of the Omnifactory 1.2.2 based on the latest stable version (2020.4) on curseforge
+Chinese transalation of the Omnifactory 1.2.2 based on the stable version (2020.4) on curseforge
 <br>
 Omnifactory 1.2.2 版本翻译 基于curseforge上的稳定版（2020年4月版）
 # 未使用机翻 汉化较为完整
