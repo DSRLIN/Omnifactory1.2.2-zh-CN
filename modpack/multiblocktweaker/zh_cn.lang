@@ -1,4 +1,4 @@
-multiblocktweaker.machine.cryogenicairdistillation.name=Cryogenic Distillation Tower
+multiblocktweaker.machine.cryogenicairdistillation.name=低温蒸馏塔
 multiblocktweaker.machine.small_microverse.name=小型宇宙投影仪
 multiblocktweaker.machine.medium_microverse.name=中型宇宙投影仪
 multiblocktweaker.machine.large_microverse.name=大型宇宙投影仪
@@ -16,19 +16,19 @@ multiblocktweaker.multiblock.naquadahreactormk1.description=An advanced reactor 
 multiblocktweaker.multiblock.naquadahreactormk2.description=An elite reactor capable of capturing more energy from the decay of Enriched Naquadah and Naquadria bolts.
 multiblocktweaker.multiblock.lunarminingstation.description=A mining installation that §lonly forms on the moon§r. It deploys rovers to collect rare isotopes of helium and hydrogen.
 
-recipemap.cryogenicairdistillation.name=Cryogenic Air Distillation
-recipemap.small_microverse.name=Small Microverse Mission
-recipemap.medium_microverse.name=Medium Microverse Mission
-recipemap.large_microverse.name=Large Microverse Mission
-recipemap.oildrillingrig.name=Oil Drilling
-recipemap.naquadahreactormk1.name=Naquadah Decay (Mk1)
-recipemap.naquadahreactormk2.name=Naquadah Decay (Mk2)
-recipemap.lunarminingstation.name=Lunar Mining
+recipemap.cryogenicairdistillation.name=低温蒸馏
+recipemap.small_microverse.name=小型宇宙投影仪
+recipemap.medium_microverse.name=中型宇宙投影仪
+recipemap.large_microverse.name=大型宇宙投影仪
+recipemap.oildrillingrig.name=石油采集
+recipemap.naquadahreactormk1.name=硅岩反应 Mk1
+recipemap.naquadahreactormk2.name=硅岩反应 Mk2
+recipemap.lunarminingstation.name=月球采集
 
 gregtech.recipe.chance=Chance: %s%%; doubled each tier
 
 
 # Multiblock Simulation Chamber
-multiblocktweaker.machine.dml_sim_chamber.name=Simulation Supercomputer
-multiblocktweaker.multiblock.dml_sim_chamber.description=A high powered simulation device, capable of performing more complex simulations faster than ever.
-recipemap.dml_sim_chamber.name=Simulation Supercomputer
+multiblocktweaker.machine.dml_sim_chamber.name=大型模拟室
+multiblocktweaker.multiblock.dml_sim_chamber.description=一个高效率的多方块模拟室, 以更快的速度完成模拟
+recipemap.dml_sim_chamber.name=大型模拟室
